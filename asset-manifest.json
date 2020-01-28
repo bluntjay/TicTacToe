@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/bluntjay/TicTacToe.git/static/css/main.61906c56.chunk.css",
+    "main.js": "/bluntjay/TicTacToe.git/static/js/main.0fa09e74.chunk.js",
+    "main.js.map": "/bluntjay/TicTacToe.git/static/js/main.0fa09e74.chunk.js.map",
+    "runtime~main.js": "/bluntjay/TicTacToe.git/static/js/runtime~main.80e68acc.js",
+    "runtime~main.js.map": "/bluntjay/TicTacToe.git/static/js/runtime~main.80e68acc.js.map",
+    "static/css/2.266e55a5.chunk.css": "/bluntjay/TicTacToe.git/static/css/2.266e55a5.chunk.css",
+    "static/js/2.64f5fedd.chunk.js": "/bluntjay/TicTacToe.git/static/js/2.64f5fedd.chunk.js",
+    "static/js/2.64f5fedd.chunk.js.map": "/bluntjay/TicTacToe.git/static/js/2.64f5fedd.chunk.js.map",
+    "index.html": "/bluntjay/TicTacToe.git/index.html",
+    "precache-manifest.1dfb73530caac1120f3590f5b8d81a5c.js": "/bluntjay/TicTacToe.git/precache-manifest.1dfb73530caac1120f3590f5b8d81a5c.js",
+    "service-worker.js": "/bluntjay/TicTacToe.git/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/bluntjay/TicTacToe.git/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.61906c56.chunk.css.map": "/bluntjay/TicTacToe.git/static/css/main.61906c56.chunk.css.map"
+  }
+}
